@@ -5,12 +5,14 @@
 </p>
 
 
-- ✍ I'm a student of: [Ho Chi Minh City University of Information Technology](https://www.uit.edu.vn/) (UIT).
+- I'm a student of: [Ho Chi Minh City University of Information Technology](https://www.uit.edu.vn/) (UIT).
 
-- 🌱 I’m currently newbie.
+- I’m currently newbie.
 
-<br />
-## 📫 How to reach me:
+</p>
+
+## How to reach me:
+
 <p align="center">
   </a>
   <a href="https://www.facebook.com/hung.deptraisiucapvippro.5/" alt="Facebook">
