@@ -10,7 +10,6 @@
 - 🌱 I’m currently newbie.
 
 <br />
-
 ## 📫 How to reach me:
 <p align="center">
   </a>
