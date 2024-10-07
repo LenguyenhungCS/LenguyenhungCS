@@ -1,5 +1,5 @@
-![technology-binary-number-programming-wallpaper-1600x480_68](https://user-images.githubusercontent.com/88621342/202923774-e8529a32-8047-4fad-98e0-71b550230481.jpg)
-<h1 align="center">Hi, Nguyễn Hưng nè</h1>
+![technology-binary-number-programming-wallpaper-1600x480_68]([https://user-images.githubusercontent.com/88621342/202923774-e8529a32-8047-4fad-98e0-71b550230481.jpg](https://i.pinimg.com/originals/50/03/62/500362c36bbe1a474dfc94ab2ef8eed9.jpg))
+<h1 align="center">Nguyen Hung</h1>
 <p align="center">
   <h3 align="center">A computer science student from Vietnam </h3>
 </p>
