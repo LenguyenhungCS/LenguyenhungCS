@@ -1,4 +1,4 @@
-![My Image](https://i.pinimg.com/originals/50/03/62/500362c36bbe1a474dfc94ab2ef8eed9.jpg)
+![My Image](https://i.pinimg.com/originals/92/35/a6/9235a69847902ba06440904baa5420bd.jpg)
 <h1 align="center">Nguyen Hung</h1>
 <p align="center">
   <h3 align="center">A computer science student from Vietnam </h3>
